@@ -1,1 +1,1 @@
-# XmlHttpRequest_Pratice
+# Dead XMLHTTPREQUESTS Example 😂
